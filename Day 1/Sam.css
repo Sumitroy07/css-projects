@@ -1,0 +1,17 @@
+.Flex{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellowgreen;
+    font-size: 55px;
+}
+h1{
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 10px 25px 15px yellow;
+    text-decoration: underline;
+    
+
+}
+.flex{
+    letter-spacing: 50px;
+    color: chocolate;
+}

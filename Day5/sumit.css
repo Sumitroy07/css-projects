@@ -1,0 +1,22 @@
+.sumit{
+    border: 2px solid rgba(38, 118, 221, 0.808);
+    width: 250px;
+    margin: 25px auto;
+    background-color: rgba(38, 118, 221, 0.808);
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+ .letter{
+    color: rgb(0, 174, 255);
+    text-decoration: underline;
+ }
+ .sam{
+    /* border: 2px solid rgba(128, 128, 128, 0.288); */
+    width: 250px;
+    margin: 25px auto;
+    background-color: rgba(128, 128, 128, 0.288);
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+ }
